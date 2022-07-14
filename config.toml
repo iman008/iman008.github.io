@@ -2,3 +2,7 @@ baseURL = 'https://iman008.github.io/'
 languageCode = 'en-us'
 title = 'Iman Ghader'
 theme= "hugotex"
+
+[author]
+  name = "Iman Ghader"
+  abstract = "I'm a math and calisthenics enthusiast and I enjoy writing and sharing my ideas."
