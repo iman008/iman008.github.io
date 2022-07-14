@@ -6,3 +6,18 @@ theme= "hugotex"
 [author]
   name = "Iman Ghader"
   abstract = "I'm a math and calisthenics enthusiast and I enjoy writing and sharing my ideas."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "paraiso-dark" # syntax highlighting style
+
+[Params]
+  darkmode = true # set true if you prefer dark mode
