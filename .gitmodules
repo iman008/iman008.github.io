@@ -7,3 +7,15 @@
 [submodule "themes/hugotex"]
 	path = themes/hugotex
 	url = https://github.com/kaisugi/HugoTeX.git
+[submodule "themes/texify"]
+	path = themes/texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/hugo-theme-texify"]
+	path = themes/hugo-theme-texify
+	url = https://github.com/queensferryme/hugo-theme-texify.git
+[submodule "themes/hugonext"]
+	path = themes/hugonext
+	url = https://github.com/elkan1788/hugo-theme-next.git
+[submodule "themes/hugo-swift-theme"]
+	path = themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
