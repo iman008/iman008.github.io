@@ -2,27 +2,3 @@ baseURL = 'https://iman008.github.io/'
 languageCode = 'en-us'
 title = 'Iman Ghader'
 theme= "hugotex"
-
-paginate = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
-
-[author]
-  name = "Iman Ghader"
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    style = "paraiso-dark" # syntax highlighting style
-
-[Params]
-  darkmode = true # set true if you prefer dark mode
