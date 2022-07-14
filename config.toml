@@ -1,4 +1,4 @@
 baseURL = 'https://iman008.github.io/'
 languageCode = 'en-us'
 title = 'Iman Ghader'
-theme= "next"
+theme= "hugotex"
