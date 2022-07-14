@@ -2,3 +2,7 @@ baseURL = 'https://iman008.github.io/'
 languageCode = 'en-us'
 title = 'Iman Ghader'
 theme= "hugotex"
+
+[author]
+  name = "Kaito Sugimoto"
+  abstract = "I'm a software engineer and a coffee enthusiast in Japan. My primary interest lies in the area of natural language processing."
