@@ -1,7 +1,9 @@
 ---
-title: "First Blog"
+title: "wealth distributing model"
 date: 2022-07-14T10:40:33+04:30
 ---
 
-a ggb file on my blog
-<iframe src="https://www.geogebra.org/classic/xrus5btb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+this is a simulation of wealth distribution in a society
+
+press go 
+https://iman008.github.io/wealthdistsim/Wealth%20Distribution.html
